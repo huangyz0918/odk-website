@@ -20,6 +20,6 @@ community:
     - title: "History"
       url: /community/history/
     - title: "Research"
-      url: /community/research/
+      url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22open+data+kit%22+or+%22opendatakit%22+or+%22ODK%22&btnG=
     - title: "Support"
       url: /community/support/
